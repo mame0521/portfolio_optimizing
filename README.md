@@ -1,5 +1,5 @@
 # portfolio_optimizing
-A visualization demo using Markowitz method as a part of my capstone project -  fuzzy entropy based portfolio optimization model and empirical study. run the portfolio_optimazing1.ipynb. tushare is an open source interface of Chinese finance data.
+A visualization demo using Markowitz method as a part of my capstone project -  fuzzy entropy based portfolio optimization model and empirical study. Run the portfolio_optimazing1.ipynb. Tushare is an open source interface of Chinese finance data.
 
 
 
