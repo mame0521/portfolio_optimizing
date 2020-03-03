@@ -1,6 +1,5 @@
 # portfolio_optimizing
-my capstone project about stock portfolio optimizing，a visualization demo using Markowitz method
-
+A visualization demo using Markowitz method as a part of my capstone project -  fuzzy entropy based portfolio optimization model and empirical study. run the portfolio_optimazing1.ipynb. tushare is a open source interface of Chinese finance data.
 
 
 
@@ -9,7 +8,6 @@ my capstone project about stock portfolio optimizing，a visualization demo usin
 """
 Created on Fri Feb 28 01:49:22 2020
 
-@author: GT72VR
 """
 
 import numpy as np
@@ -18,7 +16,7 @@ import datetime
 import tushare as ts
 import matplotlib.pyplot as plt
 
-# 军工类股票 中国卫星 （600118）、中兵红箭 （000519） 、航天动力 （600343） ，
+# stocks 军工类股票 中国卫星 （600118）、中兵红箭 （000519） 、航天动力 （600343） ，
 # 以及浦发银行（600000 ）和 中证500指数基金 500ETF （510500 ）
 symbols = ['600118', '000519', '600343', '600000', '510500']
 
